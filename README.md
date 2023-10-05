@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm wolf sudo</h1>
+<h1 align="center">Hi 👋, I'm Dwin Gharibi</h1>
 <h3 align="center">Programmer and web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wolfsudo&label=Profile%20views&color=0e75b6&style=flat" alt="wolfsudo" /> </p>
